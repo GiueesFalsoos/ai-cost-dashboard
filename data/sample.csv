@@ -1,0 +1,7 @@
+date,model,action,credits
+2024-01-01,GPT-4.1,prompt_run,10
+2024-01-01,GPT-5,prompt_run,25
+2024-01-02,GPT-4.1,prompt_run,15
+2024-01-02,GPT-5,prompt_run,30
+2024-01-03,GPT-4.1,prompt_run,8
+2024-01-03,GPT-5,prompt_run,20
